@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-
+//just modified
 
 module crc4_calculator(
     input s_in,
